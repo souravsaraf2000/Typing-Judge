@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  font-family: 'Noto Sans KR', sans-serif;
+  
 }
 
 .App-logo {
@@ -23,11 +25,22 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.marginRight{
+  margin-right: 10px;
+}
 
+.App h1{
+  padding-top: 20px;
+  padding-bottom: 30px;
+  color: #f0df9d;
+}
 .App-link {
   color: #61dafb;
 }
 
+.button-div{
+  padding-bottom: 20px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

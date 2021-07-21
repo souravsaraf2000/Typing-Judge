@@ -1,0 +1,27 @@
+.resultBox{
+    border: 4px solid rgb(13, 206, 13);
+    border-radius: 8px;
+    width: 60%;
+    /* height: 250px; */
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: #89d8d3;
+    background-image: linear-gradient(315deg, #89d8d3 0%, #03c8a8 74%);
+    margin-bottom: 30px;
+}
+.resultBox div{
+    width: 30%;
+    margin: 0 auto;
+    text-align: left;
+}
+.resultBox div h1{
+    text-align: center;
+}
+@media screen and (max-width: 400px){
+    .resultBox{
+        width: 95%;
+    }
+    .resultBox div{
+        width: 95%;
+    }
+}
