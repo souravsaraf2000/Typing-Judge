@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Typing-Judge/static/css/main.4bb3ab1e.chunk.css",
+    "main.css": "/Typing-Judge/static/css/main.ebbbd8cc.chunk.css",
     "main.js": "/Typing-Judge/static/js/main.ddaaf09d.chunk.js",
     "main.js.map": "/Typing-Judge/static/js/main.ddaaf09d.chunk.js.map",
     "runtime-main.js": "/Typing-Judge/static/js/runtime-main.ca28e4f0.js",
@@ -10,13 +10,13 @@
     "static/js/3.ed16a358.chunk.js": "/Typing-Judge/static/js/3.ed16a358.chunk.js",
     "static/js/3.ed16a358.chunk.js.map": "/Typing-Judge/static/js/3.ed16a358.chunk.js.map",
     "index.html": "/Typing-Judge/index.html",
-    "static/css/main.4bb3ab1e.chunk.css.map": "/Typing-Judge/static/css/main.4bb3ab1e.chunk.css.map",
+    "static/css/main.ebbbd8cc.chunk.css.map": "/Typing-Judge/static/css/main.ebbbd8cc.chunk.css.map",
     "static/js/2.ffe011ea.chunk.js.LICENSE.txt": "/Typing-Judge/static/js/2.ffe011ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ca28e4f0.js",
     "static/js/2.ffe011ea.chunk.js",
-    "static/css/main.4bb3ab1e.chunk.css",
+    "static/css/main.ebbbd8cc.chunk.css",
     "static/js/main.ddaaf09d.chunk.js"
   ]
 }
