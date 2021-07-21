@@ -74,9 +74,15 @@ class App extends Component {
     let givenLength = this.countWords(this.state.para);
     let count=0;
     if(enteredLength > givenLength)
+    {
       alert("Extra Words Typed !!!")
+      return -1;
+    }
     else if(enteredLength < givenLength)
+    {
       alert("Some words are missing !!!")
+      return -1;
+    }
     else
     {
       for(let i=0;i<enteredLength;i++)
