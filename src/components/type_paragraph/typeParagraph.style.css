@@ -14,6 +14,21 @@
     margin-top: 20px;
 }
 
+@media screen and (max-width: 950px){
+    .textBox{
+        width: 75%;
+    }
+}
+@media screen and (max-width: 750px){
+    .textBox{
+        width: 80%;
+    }
+}
+@media screen and (max-width: 550px){
+    .textBox{
+        width: 85%;
+    }
+}
 @media screen and (max-width: 400px){
     .textBox{
         width: 95%;

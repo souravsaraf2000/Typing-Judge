@@ -41,6 +41,19 @@
 .button-div{
   padding-bottom: 20px;
 }
+.main-content{
+  animation-name: main;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+@keyframes main{
+  0%{
+    transform: translateY(0%);
+  }
+  100%{
+    transform: translateY(3%);
+  }
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
