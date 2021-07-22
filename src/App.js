@@ -38,12 +38,13 @@ class App extends Component {
     this.setState({disabled:true,error:false,startTime:'',accuracy:0,flag:0})
   }
   paragraphAllotment = () => {
+    this.setState({enteredPara:""})
     let n = Math.floor(Math.random() * 6)
     if(n===this.state.paraNo)
       if(n===0)
         n=1;
-      else if(n===4)
-        n=3;
+      else if(n===5)
+        n=4;
       else
         n=n+1;
     const newPara = this.paragraphTexts[n];
